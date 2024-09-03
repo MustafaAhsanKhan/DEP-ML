@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Spam Email Detector
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,7 +9,7 @@
 - [Results](#results)
 
 ## Introduction
-This project aims to build a machine learning model to predict customer churn based on various factors.
+This project aims to build a machine learning model to detect spam and ham emails.
 
 ## Project Structure
 

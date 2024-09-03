@@ -12,7 +12,7 @@ This project aims to build a machine learning model to predict house prices base
 
 ## Spam Email Detector
 This model clasifies emails as Spam or Ham based on a provided dataset.
-- [Project Details](spam-email-detector/README.md)
+- [Project Details](Spam-email-detector/README.md)
 
 ## Customer Churn Prediction
 This model will predict whether a customer will churn(leave the service) based on their usage patterns and demographics.

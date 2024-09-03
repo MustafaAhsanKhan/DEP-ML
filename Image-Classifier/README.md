@@ -1,4 +1,4 @@
-# House Price Prediction
+# Image Classifier
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,7 +9,7 @@
 - [Results](#results)
 
 ## Introduction
-This project aims to build a machine learning model to predict house prices based on various factors.
+This project aims to build a machine learning model to classify images into various groups.
 
 ## Project Structure
 
